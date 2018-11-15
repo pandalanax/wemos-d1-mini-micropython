@@ -20,7 +20,8 @@ A quick tutorial on how to work with micropython as i found it puzzling in the b
    I send over the file via putboot or putmain and then it opens a repl so i can see the output.
   
 # How to:
-
+Coming soon
 
 # Examples:
+Coming soon
 
